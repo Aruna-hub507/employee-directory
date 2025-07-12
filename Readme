@@ -1,0 +1,30 @@
+# Employee Directory – Frontend UI Assignment
+
+This project is a **responsive and interactive employee directory web interface** built using **HTML, CSS, JavaScript**, and **Freemarker templates**. It is part of a frontend assignment to demonstrate modular design, clean UI, and client-side functionality.
+
+---
+
+##  Features
+
+- Dashboard with list/grid view of employees
+- Search by name or email
+- Filter by First Name, Department, Role
+- Add/Edit employee form with validation
+- Edit and Delete actions per employee
+- Pagination (basic setup)
+- Responsive design for mobile/tablet/desktop
+- Uses Freemarker for dynamic rendering
+- No backend required — mock data in Freemarker & JS
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 (vanilla)
+- JavaScript (vanilla)
+- Freemarker Template Engine
+
+---
+
+## 📁 Project Structure
